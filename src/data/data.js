@@ -3,123 +3,134 @@ const data = [
     id: 1,
     image:
       "https://i.postimg.cc/Cdy3kgbW/royecommercefam-f0c625ac3cc44046cc65.webp",
+    link: "https://ecommerce-navidev.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/index.php",
     title: "Proyecto Ecommerce - Comercial",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP y MySQL",
     description:
       "Credenciales:  Rol cliente --> usuario: user01@gmail.com y password: user01 | Rol Admin --> usuario: admmin@gmail.com y password: admin",
     date: "Junio del 2022",
-    ReadingTime: "5 min read"
+    ReadingTime: "5 min read",
   },
   {
     id: 2,
     image: "https://i.postimg.cc/RC3q7LcR/proyport.webp",
+    link:"https://portfolio-front-german.netlify.app",
     title: "Proyecto Portafolio",
     category: "Web",
     tecnologies: "HTML, CSS, JS Y REACT-JS",
     description: "",
     date: "Junio del 2022",
-    ReadingTime: "3 min read"
+    ReadingTime: "3 min read",
   },
   {
     id: 3,
     image: "https://i.postimg.cc/LXWK4f54/proynetflix.webp",
+    link: "#!",
     title: "Proyecto simulado de Netflix",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
     description:
       "Credenciales: Rol cliente--> usuario: usuario@gmail.com y password: 123456",
     date: "Febrero del 2022",
-    ReadingTime: "4 min read"
+    ReadingTime: "4 min read",
   },
   {
     id: 4,
     image: "https://i.postimg.cc/RhnrWFJ7/boticashop.webp",
+    link: "#!",
     title: "Proyecto Ecommerce - Farmacia",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
     description:
       "Credenciales: Rol Usuario --> usuario: user@gmail.com y password: userRol | Admin --> usuario: admmin@gmail.com y password: admin",
     date: "Abril del 2022",
-    ReadingTime: "4 min read"
+    ReadingTime: "4 min read",
   },
   {
     id: 5,
     image:
       "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
     title: "Proyecto",
     category: "Análsis de datos",
     tecnologies: "Tec",
     description: "Desc",
     date: "2022",
-    ReadingTime: "--"
+    ReadingTime: "--",
   },
   {
     id: 6,
     image:
       "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
     title: "Proyecto",
     category: "Análsis de datos",
     tecnologies: "Tec",
     description: "Desc",
     date: "2022",
-    ReadingTime: "--"
+    ReadingTime: "--",
   },
   {
     id: 7,
     image:
       "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
     title: "Proyecto",
     category: "Análsis de datos",
     tecnologies: "Tec",
     description: "Desc",
     date: "2022",
-    ReadingTime: "--"
+    ReadingTime: "--",
   },
   {
     id: 8,
     image:
       "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
     title: "Proyecto",
     category: "IOT",
     tecnologies: "Tec",
     description: "Desc",
     date: "2022",
-    ReadingTime: "--"
+    ReadingTime: "--",
   },
   {
     id: 9,
     image:
       "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
     title: "Proyecto",
     category: "IOT",
     tecnologies: "Tec",
     description: "Desc",
     date: "2022",
-    ReadingTime: "--"
+    ReadingTime: "--",
   },
   {
     id: 10,
     image:
       "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
     title: "Proyecto",
     category: "Mobil",
     tecnologies: "Tec",
     description: "Desc",
     date: "2022",
-    ReadingTime: "--"
+    ReadingTime: "--",
   },
   {
     id: 11,
     image:
       "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
     title: "Proyecto",
     category: "Mobil",
     tecnologies: "Tec",
     description: "Desc",
     date: "2022",
-    ReadingTime: "--"
-  }
+    ReadingTime: "--",
+  },
 ];
 
 export default data;
