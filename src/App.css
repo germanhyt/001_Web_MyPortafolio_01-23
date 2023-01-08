@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comforter&family=Lobster&family=Merriweather:wght@300&family=Playfair+Display:ital@0;1&family=Prompt:wght@100&family=Roboto:ital@1&family=Supermercado+One&family=Syne+Tactile&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: white;
+  z-index: 10;
+}
+body {
+  background-color: rgb(26, 5, 5);
+  max-width: 1200px;
+  margin: auto;
+  min-height: 100vh;
+  font-family: "Inter", "sans-serif";
+  animation: move 1s linear infinite forwards;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  height: 200px;
+  width: 200px;
+  background: var(--color-pri);
+  filter: blur(140px);
+}
+body::after {
+  content: "";
+  position: fixed;
+  top: 250px;
+  left: 250px;
+  height: 200px;
+  width: 200px;
+  background: var(--color-sec);
+  filter: blur(140px);
+}
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+:root {
+  --color-pri: #0123e7;
+  --color-pri-light: #344fec;
+  --color-sec: #a2a2a2;
+  --color-sec-light: rgba(172, 17, 233, 0.274);
+
+  --pc-width: 80%;
+  --tab-width: 90%;
+  --phone-width: 100%;
+  --text-pri: rgb(238, 236, 236);
+}
+
+.container {
+  border-radius: 10px;
+  width: var(--pc-width);
+  color: var(--color-pri-light);
+  padding: 10px 40px;
+  margin: 5px auto;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100%;
+}
+
+.bg-circle1 {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  height: 200px;
+  width: 200px;
+  background: var(--color-pri);
+  filter: blur(140px);
+}
+.bg-circle2 {
+  position: fixed;
+  bottom: 300px;
+  right: 100px;
+  height: 200px;
+  width: 200px;
+  background: var(--color-sec);
+  filter: blur(140px);
+}
+
+@media (max-width: 500px) {
+  .container {
+    width: var(--phone-width);
+  }
+}
