@@ -1,7 +1,7 @@
 import "./Header.css";
 import { useState } from "react";
 import Buttons from "../Buttons/Buttons";
-import imgPerfil from "../../assets/img/Foto_germán.png";
+import imgPerfil from "../../assets/img/mclovin.jpg";
 
 export default function Header() {
   const [toggleState, setToggleState] = useState(true);
@@ -38,20 +38,19 @@ export default function Header() {
           </h2>
           <div>
             <p>
-              <span>Nombres: </span>Germán Huaytalla Aquino
+              <span>Nombres: </span>McLovin
             </p>
             <p>
-              <span>Carrera: </span>Ingeniería de Sistemas
+              <span>Carrera: </span>Informático
             </p>
             <p>
               <span>Ciclo: </span>8vo
             </p>
             <p>
-              Preprofesional de Ingeniería de Sistemas, honesto, comprometido
-              con las actividades a realizar. Soy una persona autodidacta, capaz
-              de liderar y trabajar en equipo. Mi objetivo es ser analista de
-              Sistemas de TI, y además aprender más sobre el campo de análisis
-              de datos.
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut
+              officia maiores ducimus assumenda nam impedit beatae dolore illum
+              cupiditate voluptas, quisquam esse distinctio. Sapiente debitis
+              laboriosam et nihil, amet voluptatum!
             </p>
           </div>
           <Buttons />
