@@ -1,5 +1,4 @@
 import "./Buttons.css";
-import pdf from "../../assets/pdf/CV_Data_Germán_Huaytalla.pdf";
 
 function Buttons() {
   return (
@@ -8,7 +7,7 @@ function Buttons() {
         Ver redes
       </a>
       <a
-        href=""
+        href="https://drive.google.com/uc?export=download&id=14dEih51j5w4u187redk4OklUWRUITrP-"
         className="btn sec"
       >
         Descargar CV
