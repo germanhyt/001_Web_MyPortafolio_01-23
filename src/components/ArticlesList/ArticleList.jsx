@@ -7,7 +7,7 @@ export const ArticleList = ({ articles }) => {
       {articles.map((article) => (
         <div className="article-container" key={article.id}>
           <div className="img-container">
-            <a target={"blanck"} href={article.link}>
+            <a target={"blanck"}  href={article.link}>
               <img src={article.image} alt={article.title} />
             </a>
           </div>
