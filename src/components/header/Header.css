@@ -86,7 +86,7 @@
   opacity: 1;
 }
 .info-container .logo .hover-show.active .circle:nth-child(1) {
-  background: url(https://i.postimg.cc/qRbWycjK/styles.webp);
+  background: url(https://i.postimg.cc/gkkPwJs8/web-develpment.webp);
   background-size: cover;
   background-position: center;
   position: absolute;
@@ -95,14 +95,14 @@
 .info-container .logo .hover-show.active .circle:nth-child(2) {
   position: absolute;
   transform: translateX(150%) translateY(-150%);
-  background: url(https://i.postimg.cc/m2XW7spq/excel.webp);
+  background: url(https://i.postimg.cc/gkkPwJs8/web-develpment.webp);
   background-size: cover;
   background-position: center;
 }
 .info-container .logo .hover-show.active .circle:nth-child(3) {
   position: absolute;
   transform: translateX(210%);
-  background: url(https://i.postimg.cc/sgVwcQqD/pbi.webp);
+  background: url(https://i.postimg.cc/gkkPwJs8/web-develpment.webp);
   background-size: cover;
   background-position: center;
 }

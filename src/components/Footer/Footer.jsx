@@ -18,23 +18,23 @@ export const Footer = () => {
         </a>
       </h1>
       <div className="social-links">
-        <a href="https://www.instagram.com/_germanhuaytalla" target={"blank"}>
+        <a href="https://www.instagram.com" target={"blank"}>
           <BsInstagram className="social" />
         </a>
         <a
-          href="https://www.facebook.com/groups/177151769719998"
+          href="https://www.facebook.com/"
           target={"blank"}
         >
           <FaFacebookF className="social" />
         </a>
         <a
-          href="https://www.youtube.com/channel/UCG3yrlp0Z-_35aBYfHgb6Xg"
+          href="https://www.youtube.com/"
           target={"blank"}
         >
           <TiSocialYoutube className="social" />
         </a>
 
-        <a href="https://github.com/germanhyt" target={"blank"}>
+        <a href="https://github.com/" target={"blank"}>
           <TiSocialGithub className="social" />
         </a>
       </div>
