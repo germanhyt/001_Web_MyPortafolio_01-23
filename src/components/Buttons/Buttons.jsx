@@ -8,8 +8,9 @@ function Buttons() {
         Ver redes
       </a>
       <a
-        href="https://drive.google.com/uc?export=download&id=1P9dMn0s5SnD69oMBqYQSS3g6c1wEz0T2"
+        href="https://drive.google.com/file/d/1-fy9Q6eZMZ1MZtqp8VjIL-tAajW7HBQP/view?usp=drivesdk"
         className="btn sec"
+        target={"_blank"}
       >
         Descargar CV
       </a>
