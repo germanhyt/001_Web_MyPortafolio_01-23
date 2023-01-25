@@ -8,7 +8,7 @@ function Buttons() {
         Ver redes
       </a>
       <a
-        href="https://drive.google.com/file/d/1-fy9Q6eZMZ1MZtqp8VjIL-tAajW7HBQP/view?usp=drivesdk"
+        href="https://drive.google.com/file/d/1vW4K6fq9_jmMQUhyWItpoCTDwclHvb9I/view?usp=drivesdk"
         className="btn sec"
         target={"_blank"}
       >
