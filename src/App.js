@@ -8,8 +8,8 @@ import data from "./data/data";
 
 export default function App() {
   const allCategories = [
-    "All",
-    ...new Set(data.map((article) => article.category))
+    "Todos",
+    ...new Set(data.map((article) => article.category)),
   ];
   // console.log(allCategories);
   const [categories, setCategories] = useState(allCategories);
@@ -17,7 +17,7 @@ export default function App() {
 
   const filterCategory = (category) => {
     console.log(category);
-    if (category === "All") {
+    if (category === "Todos") {
       setArticles(data);
       return;
     }
