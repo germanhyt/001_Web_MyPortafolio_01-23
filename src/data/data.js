@@ -26,7 +26,7 @@ const data = [
   {
     id: 3,
     image: "https://i.postimg.cc/LXWK4f54/proynetflix.webp",
-    link: "#!",
+    link: "https://ecommerce-navidev.000webhostapp.com/3_Netflix_modificado_ultimate/login.html",
     title: "Proyecto simulado de Netflix",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
@@ -38,7 +38,7 @@ const data = [
   {
     id: 4,
     image: "https://i.postimg.cc/RhnrWFJ7/boticashop.webp",
-    link: "#!",
+    link: "https://ecommerce-navidev.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/index.php",
     title: "Proyecto Ecommerce - Farmacia",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
@@ -50,7 +50,7 @@ const data = [
   {
     id: 5,
     image: "https://i.postimg.cc/2yk4XY1f/dashboard.webp",
-    link: "https://drive.google.com/drive/u/0/folders/1zjLjzhQ3a9Ld5t2ymx5WmQR-FKWvb_32",
+    link: "https://unmsmmail-my.sharepoint.com/:x:/g/personal/german_huaytalla_unmsm_edu_pe/Edfx0_w21vpGvaXPARL4tlEBUfsMPrNDM7eDDGBi82Gipg?e=EqfqlM",
     title: "Dashboard en Excel, Uso de Tablas de datos y tablas dinámicas",
     category: "Análisis de datos",
     tecnologies: "Excel",
@@ -62,12 +62,12 @@ const data = [
   {
     id: 6,
     image: "https://i.postimg.cc/G3X9Gc7P/excel-buscador.png",
-    link: "https://drive.google.com/file/d/182I4rtnK4Az_Ef9mgwaxVFT8_mH5JEzF/view?usp=sharing",
+    link: "https://unmsmmail-my.sharepoint.com/:x:/g/personal/german_huaytalla_unmsm_edu_pe/ES2uWCY0SZJGsAcEU_02ptkBukpRaSUHQBm-OqeZohEXkw?e=Mbv72G",
     title: "Proyecto de Buscador en Excel",
     category: "Análisis de datos",
     tecnologies: "Excel",
     description:
-      "El juego permite filtrar datos por Nombre y por DNI en Excel para ello hace una tablla de datos y una macros",
+      "El juego permite filtrar datos por Nombre y por DNI en Excel para ello se hace una tabla de datos y una macros",
     date: "Enero 2023",
     ReadingTime: "4 min read",
   },
