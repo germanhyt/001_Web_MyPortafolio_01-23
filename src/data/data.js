@@ -195,7 +195,7 @@ const data = [
     id: 17,
     image:
       "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1679592759/Imagenes_Portafolio/certificaciones_aic86w.png",
-    link: "https://unmsmmail-my.sharepoint.com/:u:/g/personal/german_huaytalla_unmsm_edu_pe/EYpkLB46jSNNqBaE29E7DeMBnrsOcgqdcmRyvwE9FXbcTg?e=FnFfOn",
+    link: "https://drive.google.com/drive/folders/1t_GdF3Z_JcKcPVb03NB2zlFpC6sFiRTo?usp=sharing",
     title: "Certificaciones de cursos externos a la Univesidad",
     category: "Certificados",
     tecnologies: "",
