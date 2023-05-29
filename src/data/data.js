@@ -196,7 +196,7 @@ const data = [
     image:
       "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1679592759/Imagenes_Portafolio/certificaciones_aic86w.png",
     link: "https://drive.google.com/drive/folders/1t_GdF3Z_JcKcPVb03NB2zlFpC6sFiRTo?usp=sharing",
-    title: "Certificaciones de cursos externos a la Univesidad",
+    title: "Certificaciones de cursos externos a la Universidad",
     category: "Certificados",
     tecnologies: "",
     description: "",
