@@ -3,7 +3,7 @@ const data = [
     id: 1,
     image:
       "https://i.postimg.cc/Cdy3kgbW/royecommercefam-f0c625ac3cc44046cc65.webp",
-    link: "https://shermandeploy.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
+    link: "http://shermandeploy.byethost7.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
     title: "Proyecto Ecommerce - Comercial",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP y MySQL",
@@ -26,7 +26,7 @@ const data = [
   {
     id: 3,
     image: "https://i.postimg.cc/LXWK4f54/proynetflix.webp",
-    link: "https://shermandeploy.000webhostapp.com/Netflix_ultimate/movie.html",
+    link: "http://shermandeploy.byethost7.com/Netflix_ultimate/movie.html",
     title: "Proyecto simulado de Netflix",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
@@ -38,7 +38,7 @@ const data = [
   {
     id: 4,
     image: "https://i.postimg.cc/RhnrWFJ7/boticashop.webp",
-    link: "https://shermandeploy.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
+    link: "http://shermandeploy.byethost7.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
     title: "Proyecto Ecommerce - Farmacia",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
