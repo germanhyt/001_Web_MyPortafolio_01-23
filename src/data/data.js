@@ -3,7 +3,7 @@ const data = [
     id: 1,
     image:
       "https://i.postimg.cc/Cdy3kgbW/royecommercefam-f0c625ac3cc44046cc65.webp",
-    link: "https://ecommerce-navidev.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/index.php",
+    link: "https://shermandeploy.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
     title: "Proyecto Ecommerce - Comercial",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP y MySQL",
@@ -26,7 +26,7 @@ const data = [
   {
     id: 3,
     image: "https://i.postimg.cc/LXWK4f54/proynetflix.webp",
-    link: "https://ecommerce-navidev.000webhostapp.com/3_Netflix_modificado_ultimate/login.html",
+    link: "https://shermandeploy.000webhostapp.com/Netflix_ultimate/movie.html",
     title: "Proyecto simulado de Netflix",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
@@ -38,7 +38,7 @@ const data = [
   {
     id: 4,
     image: "https://i.postimg.cc/RhnrWFJ7/boticashop.webp",
-    link: "https://ecommerce-navidev.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/index.php",
+    link: "https://shermandeploy.000webhostapp.com/PROYECTO_ECOMMERCE_PERSONAL_FAMILIA/",
     title: "Proyecto Ecommerce - Farmacia",
     category: "Web",
     tecnologies: "HTML, CSS, JS, PHP, MySQL",
@@ -74,7 +74,7 @@ const data = [
   {
     id: 7,
     image: "https://i.postimg.cc/rpLCGr2D/apirest.webp",
-    link: "https://ecommerce-navidev.000webhostapp.com/Backend_Apirest_PHP_users/index.php",
+    link: "https://shermandeploy.000webhostapp.com/Backend_Apirest_PHP_users/index.php",
     title: "Proyecto Api tipo REST",
     category: "Web",
     tecnologies: "HTML - PHP - JS",
