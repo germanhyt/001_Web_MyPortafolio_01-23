@@ -192,18 +192,6 @@ const data = [
     ReadingTime: "",
   },
   {
-    id: 17,
-    image:
-      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
-    link: "#!",
-    title: "Proyecto",
-    category: "Web",
-    tecnologies: "Tec",
-    description: "Desc",
-    date: "2022",
-    ReadingTime: "",
-  },
-  {
     id: 18,
     image:
       "https://res.cloudinary.com/dz0ajaf3i/image/upload/v1679592759/Imagenes_Portafolio/certificaciones_aic86w.png",

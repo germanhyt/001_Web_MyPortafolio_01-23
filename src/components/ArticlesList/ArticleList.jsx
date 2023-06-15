@@ -3,9 +3,9 @@ import "./ArticleList.css";
 
 export const ArticleList = ({ articles }) => {
   return (
-    <div className="article-list">
+    <div className="article-list" >
       {articles.map((article) => (
-        <div className="article-container" key={article.id}>
+        <div  className="article-container" key={article.id}>
           <div className="img-container">
             <a target={"blanck"} href={article.link}>
               <img src={article.image} alt={article.title} />

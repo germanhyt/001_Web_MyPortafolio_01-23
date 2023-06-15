@@ -5,7 +5,7 @@ function Buttons() {
   return (
     <div className="container button-container">
       <a href="#footer" className="btn pri">
-        Ver redes
+        Contáctame
       </a>
       <a
         href="https://drive.google.com/file/d/1vW4K6fq9_jmMQUhyWItpoCTDwclHvb9I/view?usp=drivesdk"

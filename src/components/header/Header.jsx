@@ -44,14 +44,14 @@ export default function Header() {
               <span>Carrera: </span>Ingeniería de Sistemas
             </p>
             <p>
-              <span>Ciclo: </span>8vo
+              <span>Ciclo: </span>9no
             </p>
             <p>
               Preprofesional de Ingeniería de Sistemas, honesto, comprometido
               con las actividades a realizar. Soy una persona autodidacta, capaz
               de liderar y trabajar en equipo. Mi objetivo es ser analista de
               Sistemas de TI, y además aprender más sobre el campo de análisis
-              de datos.
+              de datos y CloudComputing.
             </p>
           </div>
           <Buttons />
